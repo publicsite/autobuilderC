@@ -1,0 +1,23 @@
+autobuilder-c builds a c random project you give it.
+
+it uses assumptions and doesn't have build options like other build tools
+
+to run, cd to your project and run the script from that directory
+
+an out directory will be created and after much waiting,
+
+this will have libraries in <your_c_project>/out/library_<x>
+
+and will have programs in <your_c_project>/out/program_<x>
+
+The software is ...
+
+Copyright (C) 2023 J05HYYY
+
+It is provided under the GPL licence.
+
+__________________________________________
+
+To donate:
+
+https://www.paypal.com/donate/?hosted_button_id=SZABYRV48SAXW
